@@ -23,3 +23,9 @@ Fruits Shop is a simple and attractive fruit shopping website developed using HT
 
 ## GitHub Repository
 https://github.com/jayashreeramesh-08/test
+
+## Live Demo
+
+Visit my Fruits Shop website:
+
+[Click here to view Fruits Shop](https://jayashreeramesh-08.github.io/test/fruits.html)
